@@ -8,8 +8,8 @@ Agenda
 
 1. Who uses Git?
 2. Git concepts - the Parable
-3. Summary
-4. Git hosting
+3. Workflows
+4. Summary
 
 ---
 
@@ -29,9 +29,9 @@ Who uses Git
 =============
 
 1. Linux Kernel 
-    - 1,000 developers participating in each release
-    - 2 -3 months
-    - (average) 5.45 patches accepter / hour
+    - 1000 developers participating in each release
+    - 2 - 3 months
+    - (average) 5.45 patches accepted / hour
     - 11.5 million lines of code
 
 ---
@@ -246,6 +246,48 @@ Understanding Git
 
 ---
 
+Styles of work
+=======
+
+Centralized workflow (like SVN; Git can do it, too)
+![centralized-workflow.svg](centralized-workflow.svg)
+
+  1. one shared repository
+  2. developers synchronize with it
+  3. two developers - second one must merge
+  
+---
+
+Styles of work
+=======
+
+Integration-manager workflow (e.g. GitHub)
+![integration-manager-workflow.svg](integration-manager-workflow.svg)
+
+  1. maintainer pushes to public repo
+  2. contributor clones and makes changes
+  3. contributor pushes to own public copy
+  4. contributor asks maintainer (e.g. by e-mail) to pull changes
+  5. maintainer adds the contributor repo as remote and merges locally
+  6. maintainer pushes merged changes to the main repository
+  
+---
+
+Styles of work
+=======
+
+Dictator and Lieutenants workflow (e.g. Linux kernel)
+![dictator-workflow.svg](dictator-workflow.svg)
+
+  1. dictator has "master" branch - in "bledded repository"
+  2. developers work on topic branches, rebase on top of master
+  3. lieutnants merge developers' topic branches into their master branches
+  4. dictator merges the lieutnants' master branches into the dictator's master
+  5. dictator pushes their master to the reference repository
+  6. ... so that other developers can rebase on top of it.
+  
+---
+
 Summary
 =======
 
@@ -274,14 +316,16 @@ Sources
 1. Presentation
   - [Git webpage](http://git-scm.com/)
   - [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
+  - [html generator from markup (git repo)](https://github.com/airportyh/QuickSlides)
   - [Git cheet sheet](http://www.ndpsoftware.com/git-cheatsheet.html#loc=remote_repo)
 2. Books
   - ["ProGit" Book - simple](http://progit.org/book/)
-  - ["Git" Community Book - intermeditate][??)
+  - ["Git" Community Book - intermeditate](http://book.git-scm.com/)
   - [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 3. How to begin on Windows?
   - [Illustrated guider to Git on WINDOWWS](http://nathanj.github.com/gitguide/index.html)
   - [How to setup Git repo - guthub](http://help.github.com/win-set-up-git/)
 4. Linux kernel stats:
-  - [who writes linux][http://www.linuxfoundation.org/publications/whowriteslinux.pdf]
+  - [who writes linux](http://www.linuxfoundation.org/publications/whowriteslinux.pdf)
+
 
