@@ -181,6 +181,10 @@ Understanding Git
 
 ---
 
+![tags-file-with-head.svg](tags-file-with-head.svg)
+
+---
+
 ![distributed.svg](distributed.svg)
 
 ---
