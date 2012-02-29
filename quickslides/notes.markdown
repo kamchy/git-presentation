@@ -6,12 +6,43 @@ Git
 Agenda
 ======
 
-1. Who uses Git?
-2. Git concepts - the Parable
-3. Workflows
-4. Summary
+1. What is Git?
+2. Who uses Git?
+3. Git concepts (your story)
+4. Workflows
+5. Summary
 
 ---
+
+What is Git?
+============
+1. Linus Torvalds, tarballs and BitKeeper
+2. *NOT* like svn
+3. distributed
+4. safe
+5. very high performance
+6. Git development
+
+---
+
+What is Git?
+============
+1. Linus Torvalds, tarballs and BitKeeper
+2. *NOT* like svn
+3. distributed
+4. safe
+5. very high performance
+6. Git development
+  - April 3 2005 - start
+  - April 6 2005 - announced
+  - April 7 2005 - self-hosting
+  - April 18 2005 - multiple branches merge
+  - April 29 2005 - benchmark: 6.7 patches / s
+  - June 16 2005 - Linux kernel 2.6.12 on Git
+
+
+---
+
 
 Who uses Git
 =============
@@ -249,7 +280,6 @@ Understanding Git
 Styles of work
 =======
 
-Centralized workflow (like SVN; Git can do it, too)
 ![centralized-workflow.svg](centralized-workflow.svg)
 
   1. one shared repository
@@ -260,8 +290,6 @@ Centralized workflow (like SVN; Git can do it, too)
 
 Styles of work
 =======
-
-Integration-manager workflow (e.g. GitHub)
 ![integration-manager-workflow.svg](integration-manager-workflow.svg)
 
   1. maintainer pushes to public repo
@@ -276,7 +304,6 @@ Integration-manager workflow (e.g. GitHub)
 Styles of work
 =======
 
-Dictator and Lieutenants workflow (e.g. Linux kernel)
 ![dictator-workflow.svg](dictator-workflow.svg)
 
   1. dictator has "master" branch - in "bledded repository"
@@ -295,8 +322,6 @@ Summary
 2. whole history is locally
 3. staging area - next commit
 4. styles of work
-
-
 
 ---
 

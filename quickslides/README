@@ -1,0 +1,10 @@
+Slideshow - "Git"
+
+This repo contains files needed for creating html presentation about git. All .svg graphics are licenced under CreativeCommons-Attribution-ShareAlike licence.
+
+Usage:
+1. edit notes.markdown, dividing each slide with "---" separator
+2. run make (concats textually three files and saves the result in presentation.html) - please don't laugh at my Makefile!
+3. view presentation.html in your favourite Firefox browser (with javascript enabled)
+4...
+5. Profit!
