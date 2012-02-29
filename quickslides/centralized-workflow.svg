@@ -2109,7 +2109,7 @@
          sodipodi:role="line"
          id="tspan5880"
          x="55.154331"
-         y="455.56406">Distributed workflows</tspan></text>
+         y="455.56406">Centralized workflow (like SVN; Git can do it, too)</tspan></text>
     <rect
        style="color:#000000;fill:#c2faca;fill-opacity:1;fill-rule:nonzero;stroke:#46a641;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3434"
