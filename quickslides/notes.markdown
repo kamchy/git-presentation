@@ -8,9 +8,10 @@ Agenda
 
 1. What is Git?
 2. Who uses Git?
-3. Git concepts (your story)
+3. Git concepts
 4. Workflows
 5. Summary
+6. Practice?
 
 ---
 
@@ -112,7 +113,6 @@ Understanding Git
 ---
 
 ![working1.svg](working1.svg)
-
 
 ---
 
@@ -326,6 +326,14 @@ Summary
 2. whole history is locally
 3. staging area - next commit
 4. styles of work
+
+---
+
+![basic-workflow.svg](basic-workflow.svg)
+
+---
+
+![om-idea.svg](om-idea.svg)
 
 ---
 

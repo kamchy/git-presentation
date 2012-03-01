@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="basic-workflow.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3789"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="8.0812204 : 294.26549 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1044.281 : 712.46865 : 1"
+       inkscape:persp3d-origin="526.18109 : 248.03149 : 1"
+       id="perspective2985" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="544.53486"
+     inkscape:cy="361.54619"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="999"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="548.57143,470"
+       id="guide5081" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="934.28571,257.14286"
+       id="guide5085" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <g
+       id="g5074"
+       transform="translate(0,-85.714211)">
+      <rect
+         ry="5.5733871"
+         rx="5.6442261"
+         y="495.79019"
+         x="52.688931"
+         height="124.9817"
+         width="401.42856"
+         id="rect4240"
+         style="color:#000000;fill:#e0fdfb;fill-opacity:1;fill-rule:nonzero;stroke:#078979;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4232"
+         y="529.6507"
+         x="74.301025"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         xml:space="preserve"><tspan
+           y="529.6507"
+           x="74.301025"
+           id="tspan4234"
+           sodipodi:role="line">$ git init</tspan><tspan
+           id="tspan4236"
+           y="559.6507"
+           x="74.301025"
+           sodipodi:role="line">$ git add .</tspan><tspan
+           id="tspan4238"
+           y="589.6507"
+           x="74.301025"
+           sodipodi:role="line">$ git commit -m &quot;Initial commit&quot;</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="42.857159"
+       y="352.36215"
+       id="text4797"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="42.857159"
+         y="352.36215"
+         id="tspan4801">Basic git workflow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="478.41702"
+       y="426.64792"
+       id="text4842"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="478.41702"
+         y="426.64792"
+         id="tspan4846">- initializes git repository in current dir </tspan><tspan
+         sodipodi:role="line"
+         x="478.41702"
+         y="454.14792"
+         id="tspan5038">  (creates .git directory)</tspan><tspan
+         sodipodi:role="line"
+         x="478.41702"
+         y="481.64792"
+         id="tspan5040">- adds all contents to staging area </tspan><tspan
+         sodipodi:role="line"
+         x="478.41702"
+         y="509.14792"
+         id="tspan5044">  (to be tracked by git)</tspan><tspan
+         sodipodi:role="line"
+         x="478.41702"
+         y="536.64795"
+         id="tspan5042">- commits the project</tspan></text>
+    <g
+       id="g5060"
+       transform="translate(0,-102.07332)">
+      <rect
+         ry="5.5733871"
+         rx="5.6442261"
+         y="667.86353"
+         x="56.428577"
+         height="180.69598"
+         width="392.92416"
+         id="rect4240-5"
+         style="color:#000000;fill:#e0fdfb;fill-opacity:1;fill-rule:nonzero;stroke:#078979;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4232-0"
+         y="715.13245"
+         x="73.814659"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         xml:space="preserve"><tspan
+           id="tspan4238-0"
+           y="715.13245"
+           x="73.814659"
+           sodipodi:role="line">$ git checkout -b experimental</tspan><tspan
+           id="tspan4909"
+           y="745.13245"
+           x="73.814659"
+           sodipodi:role="line">$ git branch</tspan><tspan
+           id="tspan4913"
+           y="775.13245"
+           x="73.814659"
+           sodipodi:role="line">$ touch exper.py</tspan><tspan
+           id="tspan4915"
+           y="805.13245"
+           x="73.814659"
+           sodipodi:role="line">$ git commit -a -m &quot;Funny stuff&quot;</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="477.84503"
+       y="582.36218"
+       id="text4842-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="477.84503"
+         y="582.36218"
+         id="tspan4846-8">- creates branch experimental and &quot;switches&quot; to it</tspan><tspan
+         sodipodi:role="line"
+         x="477.84503"
+         y="609.86218"
+         id="tspan4943">- lists branches</tspan><tspan
+         sodipodi:role="line"
+         x="477.84503"
+         y="637.36218"
+         id="tspan4947">- edit</tspan><tspan
+         sodipodi:role="line"
+         x="477.84503"
+         y="664.86218"
+         id="tspan4949">- commit all changed files</tspan><tspan
+         sodipodi:role="line"
+         x="477.84503"
+         y="692.36218"
+         id="tspan4945" /></text>
+    <g
+       id="g5068"
+       transform="translate(0,-61.289467)">
+      <rect
+         ry="5.5733871"
+         rx="5.6442261"
+         y="839.93677"
+         x="57.823631"
+         height="119.26742"
+         width="392.92416"
+         id="rect4240-5-8"
+         style="color:#000000;fill:#e0fdfb;fill-opacity:1;fill-rule:nonzero;stroke:#078979;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4232-0-5"
+         y="882.98962"
+         x="75.209717"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         xml:space="preserve"><tspan
+           id="tspan4915-4"
+           y="882.98962"
+           x="75.209717"
+           sodipodi:role="line">$ git checkout master</tspan><tspan
+           id="tspan5010"
+           y="912.98962"
+           x="75.209717"
+           sodipodi:role="line">$ git merge experimental</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="478.41702"
+       y="795.2193"
+       id="text4842-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="478.41702"
+         y="795.2193"
+         id="tspan4846-6">- switches to master</tspan><tspan
+         sodipodi:role="line"
+         x="478.41702"
+         y="822.7193"
+         id="tspan5048">- merges experimental to HEAD </tspan><tspan
+         sodipodi:role="line"
+         x="478.41702"
+         y="850.2193"
+         id="tspan5050">  (i.e. current branch, i.e. master)</tspan></text>
+  </g>
+</svg>
