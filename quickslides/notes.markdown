@@ -328,9 +328,18 @@ Summary
 Free Git hosting
 ================
 
-1. [repo.or.cz/](http://repo.or.cz/)
-2. [gitorious.org/](http://gitorious.org/)
+1. [BerliOS](http://en.wikipedia.org/wiki/BerliOS)
+2. [BitBucket](http://en.wikipedia.org/wiki/Bitbucket)
 3. [github.com/](http://github.com/)
+4. [gitorious.org/](http://gitorious.org/)
+5. [GNU Savannah](http://en.wikipedia.org/wiki/GNU_Savannah)
+6. [GoogleCode](http://en.wikipedia.org/wiki/Google_Code)
+7. [JavaForge](http://en.wikipedia.org/wiki/JavaForge)
+8. [SourceForge](http://en.wikipedia.org/wiki/SourceForge)
+9. [repo.or.cz](http://repo.or.cz/)
+
+    (*http://en.wikipedia.org/wiki/Git_%28software%29*)
+
 
 
 ---
