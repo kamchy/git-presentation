@@ -363,10 +363,11 @@ Sources
   - [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
   - [html generator from markup (git repo)](https://github.com/airportyh/QuickSlides)
   - [Git cheet sheet](http://www.ndpsoftware.com/git-cheatsheet.html#loc=remote_repo)
-2. Books
+2. Books / sites
   - ["ProGit" Book - simple](http://progit.org/book/)
   - ["Git" Community Book - intermeditate](http://book.git-scm.com/)
   - [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+  - [git ready](http://gitready.com/) - tips / advices 
 3. How to begin on Windows?
   - [Illustrated guider to Git on WINDOWWS](http://nathanj.github.com/gitguide/index.html)
   - [How to setup Git repo - guthub](http://help.github.com/win-set-up-git/)
