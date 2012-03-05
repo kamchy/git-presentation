@@ -44,7 +44,6 @@ What is Git?
 
 ---
 
-
 Who uses Git
 =============
 
@@ -74,10 +73,9 @@ Who uses Git
 1. Linux Kernel
 2. Eclipse
 3. Git
-4. GNOME, KDE, Qt
+4. GNOME, KDE, Qt, Gimp, Perl
 5. Ruby on Rails
-6. Android
-7. Debian 
+6. Android, Debian, Fedora, Ubuntu ...
 
 ---
 
@@ -87,11 +85,10 @@ Who uses Git
 1. Linux Kernel
 2. Eclipse
 3. Git
-4. GNOME, KDE, Qt
+4. GNOME, KDE, Qt, Gimp, Perl
 5. Ruby on Rails
-6. Android
-7. Debian 
-8. ... zillions developers ...
+6. Android, Debian, Fedora, Ubuntu ...
+7. ... zillions developers ...
 
 ---
 
@@ -322,10 +319,12 @@ Styles of work
 Summary
 =======
 
-1. SHA1 checksum - *whole project* snapshot
-2. whole history is locally
-3. staging area - next commit
-4. styles of work
+1. *whole project* snapshot
+2. history is available locally
+3. branching/tagging: easy, lightweight
+4. offline!
+5. staging area - next commit
+6. different styles of work
 
 ---
 
